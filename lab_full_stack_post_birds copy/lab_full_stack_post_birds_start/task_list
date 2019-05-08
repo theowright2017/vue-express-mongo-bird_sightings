@@ -1,0 +1,11 @@
+save funcrtion
+*POST
+post sighting object to database via server
+{
+species: "",
+location: "",
+date: ""
+}
+to /api/sightings
+*write controller route for '/api/sightings'- post route
+*make conroller 
